@@ -4,7 +4,8 @@ subject: 'cat:cs.cv'
 # 検索キーワード
 keywords:
         shape bias: 3
-        
+        texture bias: 3
+        bias: 1
 
 # 通知の閾値
-score_threshold: -1
+score_threshold: 0
