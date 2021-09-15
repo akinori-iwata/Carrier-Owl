@@ -3,9 +3,20 @@ subject: 'cat:cs.cv'
 
 # 検索キーワード
 keywords:
-        shape bias: 3
-        texture bias: 3
-        bias: 1
-
+        shape bias: 6
+        texture bias: 6
+        inductive bias: 5
+        bias: 5
+        resnet: 1
+        vgg: 1
+        gan: 1
+        adversarial: 1
+        adversarial atack: 1
+        adversarial example: 1
+        imagenet: 2
+        event sensor: 2
+        event camera: 2
+        data augmentaion: 4
+        
 # 通知の閾値
 score_threshold: 0
