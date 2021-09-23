@@ -17,6 +17,8 @@ keywords:
         event sensor: 2
         event camera: 2
         data augmentaion: 4
+        smoothing: 4
+        smooth: 3
         
 # 通知の閾値
 score_threshold: 0
