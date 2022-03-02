@@ -14,11 +14,17 @@ keywords:
         adversarial atack: 1
         adversarial example: 1
         imagenet: 2
-        event sensor: 2
-        event camera: 2
         data augmentaion: 4
         smoothing: 4
         smooth: 3
+        shape: 4
+        texture: 4
+        human like vision: 5
+        human-like vision: 5
+        Vision Transformers: 3
+        Vision Transformer: 3
+        ViT: 3
+        Vi-T: 3
         
 # 通知の閾値
 score_threshold: 0
