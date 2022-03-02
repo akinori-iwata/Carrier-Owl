@@ -27,4 +27,4 @@ keywords:
         Vi-T: 3
         
 # 通知の閾値
-score_threshold: 3
+score_threshold: 2
